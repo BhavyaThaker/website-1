@@ -7,9 +7,9 @@ The code handling these parameters is in `layouts/_default/single.html`
 ## `untranslated: 1`
 
 When the website is built, a page with this parameter will:
-- Have its content replaced by the English version
-- Links pointing to English pages that can be translated will be rewritten to points to the translation instead
-- The top of the page will have a message to encourage new translators
+- Have its content replaced by the English version.
+- Links pointing to English pages that can be translated will be rewritten to points to the translation instead.
+- The top of the page will have a message to encourage new translators.
 
 ## `do_not_translate: 1`
 
@@ -19,7 +19,7 @@ That attribute has two functions:
 - It informs translators that this page should not be translated
 - The top of the page will **NOT** have a message to encourage new translators
 
-## `english_is_canonical: 1`
+## `english_is_canonic: 1`
 
 A translation with this attribute will display a warning on the top to indicate that the English version is canonical.
 
