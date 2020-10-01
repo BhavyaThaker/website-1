@@ -21,7 +21,7 @@ That attribute has two functions:
 
 ## `english_is_canonic: 1`
 
-A translation with this attribute will display a warning on the top to indicate that the English version is canonical.
+A translation with this attribute/quality will display a warning on the top to indicate that the English version is canonical.
 
 ## `do_not_index: 1`
 
